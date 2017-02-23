@@ -1,0 +1,4 @@
+get categories and view them in the admin panel. chosen category is the one that will be picked for the piling effect
+add posts and put them in said category
+create shortcode for piling effect
+bind that shit
